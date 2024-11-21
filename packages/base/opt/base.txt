@@ -340,6 +340,7 @@ net_drv_%   i40e        i40e.ko
 net_drv_%   i40evf      i40evf.ko
 net_drv_%   igb         igb.ko
 net_drv_%   igbvf       igbvf.ko
+net_drv_%   igc         igc.ko
 net_drv_%   ipg         ipg.ko
 net_drv_%   ipheth      ipheth.ko
 net_drv_%   ixgb        ixgb.ko
