@@ -1,0 +1,36 @@
+
+# fli4l-4.0.0-r60808-becto
+# ------------------------------------------
+
+arch="x86_64"
+
+packages="base \
+	    apcupsd \
+		becto_python \
+		becto_smartmontools \
+	    chrony \
+	    dns_dhcp \
+	    easycron \
+	    hd \
+	    httpd \
+	    hwsupp \
+	    ifrename \
+	    kernel_5_4 \
+	    lnk \
+	    mailsend \
+	    mc \
+	    minicom \
+	    openvpn \
+	    ppp \
+	    pppoe \
+	    rrdtool \
+	    sshd \
+	    tools \
+	    usb \
+	    usercmd \
+	    wol"
+
+outdir=./"_release_fli4l-4.0.0-r60808-becto"
+log=./"_mkfli4lgit.conf-becto.log"
+
+# ---//
