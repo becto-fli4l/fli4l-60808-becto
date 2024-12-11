@@ -186,6 +186,7 @@ b opt/usr/bin/hwsuppd
 d opt/usr/bin/online_keyprog
 d opt/usr/bin/pcengines-alix-cron.sh
 d opt/usr/bin/reset_keyprog
+d opt/usr/local/bin/reboot.watchdog.sh
 d opt/usr/sbin/hwsupp_onlined
 b opt/usr/sbin/pcengines
 b opt/usr/sbin/watchdogd
