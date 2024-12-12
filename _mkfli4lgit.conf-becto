@@ -26,6 +26,7 @@ packages="base \
 	    rrdtool \
 	    sshd \
 	    tools \
+	    umts \
 	    usb \
 	    usercmd \
 	    wol"

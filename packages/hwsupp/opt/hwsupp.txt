@@ -26,6 +26,8 @@ opt_hwsupp yes  etc/rc0.d/rc996.hwsupp          mode=555 flags=sh
 
 opt_hwsupp yes  usr/bin/sensors           mode=555
 
+opt_hwsupp yes	usr/local/bin/reboot.watchdog.sh	mode=555 flags=sh
+
 hwsupp_led_% online usr/sbin/hwsupp_onlined    mode=555 flags=sh
 hwsupp_led_% online etc/rc.d/rc200.hwsupp_onlined    mode=555 flags=sh
 
